@@ -12,3 +12,7 @@ CTestTestfile.cmake
 /lib/*
 /build/*
 /.vscode/*
+
+/modules/python/src2/__pycache__
+/modules/python/src2/typing_stubs_generation/__pycache__
+/modules/python/src2/typing_stubs_generation/nodes/__pycache__
